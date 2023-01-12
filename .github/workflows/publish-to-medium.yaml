@@ -15,7 +15,7 @@ jobs:
       - uses: infraway/medium-post-markdown@v1.5.0
         with:
           access_token: ${{ secrets.MEDIUM_ACCESS_TOKEN }}
-          markdown: ${{ steps.post.outputs.data }}
+          markdown_file: ${{ steps.post.outputs.data }}
           base_url: https://medium.com/nuggs
           post_url: https://medium.com/nuggs/posts
           post_status: draft
