@@ -1,4 +1,4 @@
-# Publishing from GitHub to Medium (Testing 123)
+# Publishing from GitHub to Medium (Testing 1 2 3)
 
 > This post was published from GitHub to Medium.
 >

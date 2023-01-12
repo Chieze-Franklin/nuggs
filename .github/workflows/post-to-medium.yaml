@@ -19,7 +19,7 @@ jobs:
           content_format: "markdown"
           notify_followers: "false"
           tags: "test,github,medium"
-          title: "Publishing from GitHub to Medium (Testing 123)"
+          title: "Publishing from GitHub to Medium (Testing 1 2 3)"
           license: "all-rights-reserved"
           publish_status: "draft" # other options are public, and unlisted
           publication_name: "nuggs"
