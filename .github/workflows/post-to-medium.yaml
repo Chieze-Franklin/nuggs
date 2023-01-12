@@ -15,7 +15,7 @@ jobs:
         uses: philips-software/post-to-medium-action@v0.4.1
         with:
           integration_token: "${{ secrets.MEDIUM_ACCESS_TOKEN }}"
-          file: "posts/2023/01/12/testing456.md"
+          file: "posts/2023/01/12/testing123.md"
           content_format: "markdown"
           notify_followers: "false"
           tags: "test,tag"
