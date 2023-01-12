@@ -18,8 +18,8 @@ jobs:
           file: "posts/2023/01/12/testing123.md"
           content_format: "markdown"
           notify_followers: "false"
-          tags: "test,tag"
-          title: "Publishing from GitHub to Medium"
+          tags: "test,github,medium"
+          title: "Publishing from GitHub to Medium (Testing 123)"
           license: "all-rights-reserved"
-          publish_status: "draft"
+          publish_status: "draft" # other options are public, and unlisted
           publication_name: "nuggs"
