@@ -1,0 +1,25 @@
+name: post-to-medium
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  post-to-medium:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+      - name: Create Medium Post
+        uses: philips-software/post-to-medium-action@v0.4.1
+        with:
+          integration_token: "${{ secrets.MEDIUM_ACCESS_TOKEN }}"
+          file: "posts/2023/01/12/testing456.md"
+          content_format: "markdown"
+          notify_followers: "false"
+          tags: "test,tag"
+          title: "Publishing from GitHub to Medium"
+          license: "all-rights-reserved"
+          publish_status: "draft"
+          publication_name: "nuggs"
