@@ -4,7 +4,7 @@
 >
 > The content of this post was scaffolded with the help of ChatGPT
 
-Publishing posts from GitHub to Medium is a great way to share your technical content with a wider audience. By connecting your GitHub repository to Medium, you can automatically publish your posts to the platform and reach a larger audience.
+Publishing posts from GitHub to Medium is a great way to share your technical content with a broader audience. By connecting your GitHub repository to Medium, you can automatically publish your posts to the platform and reach a larger audience.
 
 To get started, you will need to create an account on Medium if you don't have one already. Click on your account icon and go to **Manage publications**
 
