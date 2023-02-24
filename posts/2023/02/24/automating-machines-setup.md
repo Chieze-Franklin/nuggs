@@ -8,7 +8,7 @@ In this blog, we'll walk you through the process of setting up a Mac and Ubuntu 
 [Make](https://www.gnu.org/software/make/) is a build automation tool that is used to build and compile software projects.
 Linux and Mac machines typically come with Make preinstalled and you can easily find and download it for your operating system online.
 [Makefiles](https://www.gnu.org/software/make/manual/make.html#toc-An-Introduction-to-Makefiles) are configuration files that contain instructions
-for make on how to build a project. By using makefiles, you can automate repetitive tasks, such as setting up a new machine.
+for `make` on how to build a project. By using makefiles, you can automate repetitive tasks, such as setting up a new machine.
 
 The first step is to create a makefile that contains instructions for setting up your machine. Here's an example of what your makefile might look like:
 
@@ -23,8 +23,6 @@ setup-mac:
 setup-ubuntu:
     ./setup-ubuntu.sh
 ```
-
-![code](https://user-images.githubusercontent.com/6097630/221064522-437fa02c-eeca-4c22-a72e-444f6603aa3d.png)
 
 
 This makefile has three targets: `all`, `setup-mac`, and `setup-ubuntu`. The `all` target is the default target that will be run when
