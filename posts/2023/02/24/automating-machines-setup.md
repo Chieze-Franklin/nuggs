@@ -73,6 +73,12 @@ They install relevant software development tools on my machines. Feel free to do
 Using scripts and makefiles is an efficient way to automate the process of setting up a new machine.
 By writing a makefile with instructions for shell scripts, you can ensure that your machine is set up consistently and accurately every time.
 
+### Learning Resources
+
+- [Makefile Tutorial](https://makefiletutorial.com/)
+- [Practice Makefiles Online](https://tio.run/#make)
+- [Shell Scripting Tutorial](https://www.shellscript.sh/index.html)
+
 -----
 
 > This post was published from GitHub to Medium.
