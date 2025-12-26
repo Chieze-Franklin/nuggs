@@ -1,12 +1,15 @@
 # 2025 Reflections
 
+<img width="1536" height="1024" alt="reflections-2025-cover" src="https://github.com/user-attachments/assets/68fdafb0-b2a8-45e5-838e-3eebb350a645" />
+
+
 In the coming weeks, we’ll enter into a long-term partnership with a Dutch company—one that begins as a six-figure deal in 2026 and has the potential to grow into a seven-figure engagement over the next few years.
 As a company, we couldn’t have asked for a better way to end the year.
 
-This moment feels especially meaningful when I think back to last December.
+This moment feels especially poignant when I reflect on last December.
 
 At the time, my co-founder Wale was leading our friends-and-family round. The goal was simple: raise just enough to give us a 12-month runway — to speak with companies,
-deeply understand real problems worth solving, and build an MVP.
+gain a deep understanding of real problems worth solving, and build an MVP.
 We already had a very flexible and powerful platform for building AI-powered applications; what we didn’t yet have was a focused product built on top of it.
 Finding and building that product became our mission for the year.
 
@@ -18,7 +21,10 @@ useful AI and much-needed automation into a specific part of the Dutch banking a
 
 The first tool shaped by this vision is **OnBuddy**.
 
-With OnBuddy, our goal is for every person in every organization to have a personal AI companion—one that helps them find information, take action across the third-party tools their organization already uses,
+<img width="1394" height="1262" alt="Screenshot 2025-12-26 at 18 09 29" src="https://github.com/user-attachments/assets/0b9bc00d-989f-42e4-be08-c0eee3187705" />
+
+
+With [OnBuddy](https://onbuddy.ai/), our goal is for every person in every organization to have a personal AI companion—one that helps them find information, take action across the third-party tools their organization already uses,
 and automate important business processes. This is the tool we set out to *find* at the beginning of the year. This is the tool we *found* after weeks of user research.
 We officially launched OnBuddy on December 6th during our Mixer event in Lagos, and we’ve already started receiving incredibly valuable feedback from early users.
 This year, we spent most of our time *describing* what we were building; in 2026, we’ll begin *showing* it.
@@ -36,6 +42,7 @@ We negotiated with organizations much larger than us, organized events we had no
 fortune would favor us. And in 2026, we intend to be even more daring.
 
 P.S. We’re currently in the middle of another friends-and-family round. The first round helped us build our solutions; this one will help accelerate their distribution.
-We’ll be organizing this round via Borderless (https://www.onborderless.com/), with a live link available in January.
-If you’d like to be part of it, feel free to reach out to me at franklin@proteusai.app
-.
+We’ll be organizing this round via [Borderless](https://www.onborderless.com/), with a live link available in January.
+If you’d like to be part of it, feel free to reach out to me at [franklin@proteusai.app](mailto:franklin@proteusai.app).
+
+P.P.S. This article was posted from [GitHub](https://github.com/Chieze-Franklin/nuggs/blob/main/posts/2025/12/30/2025-reflections.md) to [Medium](https://medium.com/nuggs/2025-reflections-eecdc14617f4) using the [Post to Medium](https://github.com/marketplace/actions/post-to-medium-action) GitHub action, as described [here](https://medium.com/nuggs/publishing-from-github-to-medium-testing-1-2-3-95cce52156f6).
