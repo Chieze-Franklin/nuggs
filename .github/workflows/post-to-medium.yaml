@@ -15,11 +15,11 @@ jobs:
         uses: philips-software/post-to-medium-action@v0.4.1
         with:
           integration_token: "${{ secrets.MEDIUM_ACCESS_TOKEN }}"
-          file: "posts/2023/02/24/automating-machines-setup.md"
+          file: "posts/2025/12/30/2025-reflections.md"
           content_format: "markdown"
           notify_followers: "false"
-          tags: "setup,scripts,make,makefile"
-          title: "Automating Machine Setup: Setting up Mac and Ubuntu Machines with Scripts in Makefiles"
+          tags: "proteus,proteusai,ai,onbuddy"
+          title: "2025 Reflections"
           license: "all-rights-reserved"
           publish_status: "draft" # other options are public, and unlisted
           publication_name: "nuggs"
